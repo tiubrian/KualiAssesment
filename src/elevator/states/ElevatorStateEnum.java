@@ -1,4 +1,4 @@
-package states;
+package elevator.states;
 
 public enum ElevatorStateEnum {
     HIGHER_FLOOR_BUTTON_PRESSED,
