@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34ac5f3f-329a-42ac-a668-f65e9ee4742a" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ElevatorManager.java" afterPath="$PROJECT_DIR$/src/elevator_manager/ElevatorManager.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ElevatorRequest.java" afterPath="$PROJECT_DIR$/src/elevator_manager/ElevatorRequest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ElevatorRequestButton.java" afterPath="$PROJECT_DIR$/src/elevator_manager/ElevatorRequestButton.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/elevator/states/ElevatorState.java" afterPath="$PROJECT_DIR$/src/elevator/states/ElevatorState.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,16 +56,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MovingUpDroppingPeopleOffState.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/elevator/states/MovingUpDroppingPeopleOffState.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="65" lean-forward="false" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MovingDownPickUpPeopleState.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/elevator/states/MovingDownPickUpPeopleState.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,7 +66,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ElevatorManager.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ElevatorManager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/elevator_manager/ElevatorManager.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="321">
@@ -88,6 +74,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="61" lean-forward="false" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -162,6 +158,7 @@
         <option value="$PROJECT_DIR$/src/elevator_manager/ElevatorRequestButton.java" />
         <option value="$PROJECT_DIR$/src/elevator_manager/ElevatorManager.java" />
         <option value="$PROJECT_DIR$/src/elevator/states/ElevatorState.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -478,6 +475,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="61" lean-forward="false" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+          <folding />
         </state>
       </provider>
     </entry>
